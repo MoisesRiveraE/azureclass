@@ -25,11 +25,6 @@ main > h1 {
   
 }
 
-body{
-background-color: lightgrey;
-  font-family: sans-serif;
-}
-
 .container{
   margin: auto;
   background-color: white;
